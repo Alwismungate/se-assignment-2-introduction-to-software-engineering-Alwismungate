@@ -1,10 +1,9 @@
-ii[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15235839&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-2
 Assignment: Introduction to Software Engineering
 Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
-
 
 Questions:
 
@@ -15,7 +14,7 @@ What is software engineering, and how does it differ from traditional programmin
 
 Traditional programming focuses on writing code to solve problems while software engineering involves a systematic approach to developing software that considers principles like scalability,maintainability and reliability.
 
-Software Development Life Cycle (SDLC):
+Software Development Life Cycle (SDLC): 
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 
@@ -92,4 +91,3 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
-
